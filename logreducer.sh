@@ -1,9 +1,7 @@
 #!/bin/bash
-#Author      : Chris Lamke
 #Copyright   : 2021 Christopher R Lamke
-#License     : MIT - See https://opensource.org/licenses/MIT
 #Project Home: https://github.com/crlamke/logreducer
-#
+#License     : MIT - See https://opensource.org/licenses/MIT
 
 runDTG=$(date +"%Y-%m-%d-%H-%M-%S-%Z")
 linesBeforeMatch=2
